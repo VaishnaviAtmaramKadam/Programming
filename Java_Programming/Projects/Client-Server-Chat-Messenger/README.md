@@ -35,6 +35,7 @@ The client sends a message to the server.
 The server receives the message.
 The server sends a response back to the client.
 The communication continues until the client enters end.
+
 ▶️ How to Run
 1. Compile the Server
 javac ChatServer.java
@@ -43,15 +44,12 @@ javac ChatClient.java
 3. Start the Server
 
 Open Terminal 1 and run:
-
 java ChatServer
 
 The server will start and wait for a client connection on port 2100.
-
 4. Start the Client
 
 Open Terminal 2 and run:
-
 java ChatClient
 
 The client will connect to the server.
@@ -66,8 +64,8 @@ Client: how are you
 Server: i am fine
 
 To terminate the chat, enter:
-
 end
+
 🖥️ Output Screenshots
 Client Terminal
 <img width="1095" height="517" alt="Screenshot 2026-09-04 153957" src="https://github.com/user-attachments/assets/aee6edd6-62c0-45ee-9097-ac4c895d4b0f" />
@@ -82,6 +80,7 @@ TCP/IP Communication
 Network Communication
 Java Input/Output Streams
 Exception Handling
+
 👩‍💻 Author
 
 Vaishnavi Kadam

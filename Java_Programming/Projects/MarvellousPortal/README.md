@@ -224,19 +224,6 @@ BatchDetails
 
 ---
 
-# 📸 API Screenshots
-
-Add screenshots here:
-
-- Create Batch (POST)
-- Get All Batches (GET)
-- Update Batch (PUT)
-- Delete Batch (DELETE)
-- MongoDB Collection
-- Postman Testing
-
----
-
 # 🚀 Future Enhancements
 
 - Spring Security with JWT Authentication
